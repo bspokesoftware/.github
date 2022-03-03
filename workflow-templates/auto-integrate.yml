@@ -3,7 +3,7 @@ on:
     branches: [ $default-branch ]
     
 jobs:
-  merge-branch:
+  auto-integration:
     name: Auto integration
     runs-on: ubuntu-latest
     steps:
