@@ -1,0 +1,4 @@
+{
+    "name": "Auto Integration",
+    "description": "Automatically merges changes detected on default branch to develop."
+}
