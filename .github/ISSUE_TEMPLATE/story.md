@@ -2,8 +2,8 @@
 name: Story
 about: A new feature or functionality from the perspective of a user
 title: 'As a user, '
-labels: ''
-assignees: ''
+labels: Bug
+assignees: patrickklaeren
 
 ---
 
