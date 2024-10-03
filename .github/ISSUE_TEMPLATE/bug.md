@@ -2,8 +2,9 @@
 name: Bug
 about: A problem that needs to be resolved
 title: ''
-labels: Bug
+labels: ''
 assignees: ''
+type: Bug
 
 ---
 
