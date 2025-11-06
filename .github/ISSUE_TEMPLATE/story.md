@@ -1,7 +1,7 @@
 ---
 name: Story
 about: A new feature or functionality from the perspective of a user
-title: 'As a user, '
+title: ''
 labels: ''
 assignees: ''
 type: Story
